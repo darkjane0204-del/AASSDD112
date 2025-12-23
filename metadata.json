@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Vision Artisan",
+  "description": "A world-class AI-powered image modification tool that uses natural language to perform complex local edits, perspective changes, and scene replacements across four parallel generation modes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
